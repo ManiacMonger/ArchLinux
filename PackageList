@@ -1,0 +1,23 @@
+networkmanager network-manager-applet
+dialog
+wpa_supplicant wireless_tools iw iwd net-tools 
+mtools
+dosfstools
+linux-headers
+avahi
+xdg-user-dirs xdg-utils
+gvfs gvfs-smb
+nfs-utils inetutils dnsutils
+bluez bluez-utils blueman
+alsa-utils
+pipewire pipewire-alsa pipewire-pulse pipewire-jack
+pipewire pipewire-alsa pipewire-pulse pipewire-jack
+openssh
+rsync
+reflector
+acpi acpi_call acpid
+tlp
+bridge-utils dnsmasq vde2 openbsd-netcat iptables-nft ipset
+firewalld 
+sof-firmware
+nss-mdns
