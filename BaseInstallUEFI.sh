@@ -16,7 +16,7 @@ echo "127.0.1.1 ROG.localdomain ROG" >> /etc/hosts
 
 # echo root:root | chpasswd
 
-pacman -S grub grub-theme-vimix efibootmgr os-prober ntfs-3g networkmanager wireless_tools net-tools tlp openssh dialog wpa_supplicant mtools dosfstools xdg-user-dirs xdg-utils gvfs bluez bluez-utils alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack acpi acpid acpi_call sof-firmware 
+pacman -S grub grub-theme-vimix efibootmgr os-prober ntfs-3g networkmanager wireless_tools iw iwd net-tools tlp openssh dialog wpa_supplicant mtools dosfstools xdg-user-dirs xdg-utils gvfs bluez bluez-utils alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack acpi acpid acpi_call sof-firmware 
 
 # pacman -S network-manager-applet avahi gvfs-smb nfs-utils inetutils dnsutils cups hplip rsync virt-manager qemu qemu-arch-extra edk2-ovmf bridge-utils dnsmasq vde2 openbsd-netcat iptables-nft ipset firewalld flatpak nss-mdns terminus-font
 
